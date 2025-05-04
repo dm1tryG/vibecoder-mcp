@@ -22,3 +22,10 @@ python main.py
 
 - Lesson creation functionality
 - MCP implementation
+
+
+## TODO List
+
+1. Add trusted sources
+2. Add Long Term Memory For Study Plans
+3. Launch MCP platform
